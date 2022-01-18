@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "createFields.H": "cpp",
+        "porousSimpleFoam.C": "cpp",
+        "SRFSimpleFoam.C": "cpp",
+        "createUpdatedDynamicFvMesh.H": "cpp",
+        "overSimpleFoam.C": "cpp",
+        "simpleFoam.C": "cpp"
+    }
+}
